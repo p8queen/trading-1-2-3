@@ -1,2 +1,6 @@
 # trading-1-2-3
-Trading 1-2-3 System
+
+- Trading 1-2-3 System
+- tradingview + python T.A.
+
+
